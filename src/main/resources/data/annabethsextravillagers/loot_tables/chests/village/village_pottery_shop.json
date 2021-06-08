@@ -1,0 +1,603 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": {
+				"min": 1,
+				"max": 4,
+				"type": "minecraft:uniform"
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:white_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:orange_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:magenta_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:light_blue_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:yellow_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:lime_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:pink_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:gray_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:light_gray_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:cyan_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:purple_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:blue_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:brown_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:green_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:red_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:black_glazed_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:white_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:orange_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:magenta_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:light_blue_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:yellow_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:lime_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:pink_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:gray_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:light_gray_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:cyan_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:purple_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:blue_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:brown_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:green_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:black_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 4,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:white_terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 64,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:terracotta"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 64,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:clay"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 32,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:clay_ball"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 8,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:flower_pot"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 32,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:brick"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 64,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 2,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:bricks"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 32,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:bread"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:emerald"
+				}
+			]
+		}
+	]
+}

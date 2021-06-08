@@ -1,0 +1,9 @@
+{
+	"entity.minecraft.villager.annabethsextravillagers.carpenter": "Carpenter",
+	"entity.minecraft.villager.annabethsextravillagers.potter": "Potter",
+	"entity.minecraft.villager.annabethsextravillagers.musician": "Musician",
+	"block.annabethsextravillagers.sawmill": "Sawmill",
+	"block.annabethsextravillagers.ceramics_table": "Ceramics Table",
+	"container.sawmill": "Sawmill",
+	"stat.annabethsextravillagers.interact_with_sawmill": "Interact with Sawmill"
+}

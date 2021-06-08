@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="annabethsextravillagers"
+version="${file.jarVersion}"
+displayName="Annabeth's Extra Villagers"
+authors="gayannabeth"
+description='''
+Adds a few new villager professions I thought would be cool
+'''
+[[dependencies.annabethsextravillagers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.annabethsextravillagers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.annabethsextravillagers]]
+	modId="annabethscore"
+	mandatory=true
+	versionRange="[1.0,)"
+	ordering="AFTER"
+	side="BOTH"

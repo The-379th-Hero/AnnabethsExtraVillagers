@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"facing=east": {
+			"model": "annabethsextravillagers:block/sawmill",
+			"y": 90
+		},
+		"facing=north": {
+			"model": "annabethsextravillagers:block/sawmill"
+		},
+		"facing=south": {
+			"model": "annabethsextravillagers:block/sawmill",
+			"y": 180
+		},
+		"facing=west": {
+			"model": "annabethsextravillagers:block/sawmill",
+			"y": 270
+		}
+	}
+}

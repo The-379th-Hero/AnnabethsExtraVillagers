@@ -1,0 +1,138 @@
+{
+	"type": "minecraft:chest",
+	"pools": [
+		{
+			"rolls": {
+				"min": 3.0,
+				"max": 10.0,
+				"type": "minecraft:uniform"
+			},
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:oak_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:spruce_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:birch_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:jungle_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:acacia_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 2,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 4,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:dark_oak_log"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 3,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 3,
+								"max": 10,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:stick"
+				},
+				{
+					"type": "minecraft:item",
+					"wheight": 3,
+					"functions": [
+						{
+							"function": "minecraft:set_count",
+							"count": {
+								"min": 1,
+								"max": 5,
+								"type": "minecraft:uniform"
+							}
+						}
+					],
+					"name": "minecraft:bread"
+				},
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:emerald"
+				}
+			]
+		}
+	]
+}
